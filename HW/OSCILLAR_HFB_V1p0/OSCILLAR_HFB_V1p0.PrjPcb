@@ -149,7 +149,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=NPTOIBJQ
 
 [Document7]
 DocumentPath=..\[1] Library\SCHLIB.SchLib
@@ -169,7 +169,58 @@ GenerateClassCluster=0
 DocumentUniqueId=UBYRSXEE
 
 [Document8]
-DocumentPath=OSCILLAR_HFB_V1p0_MFILT.SchDoc
+DocumentPath=OSCILLAR_HFB_V1p0_HFPS.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OHKIFFTM
+
+[Document9]
+DocumentPath=OSCILLAR_HFB_V1p0_HFLNAMP.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FDGGZQSE
+
+[Document10]
+DocumentPath=OSCILLAR_HFB_V1p0_LFLNAMP.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LWXZPZUH
+
+[Document11]
+DocumentPath=OSCILLAR_HFB_V1p0_HFFILTB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -185,7 +236,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PMKMNPEC
 
-[Document9]
+[Document12]
+DocumentPath=OSCILLAR_HFB_V1p0_LFFILTB.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QIYYOIUQ
+
+[Document13]
 DocumentPath=OSCILLAR_HFB_V1p0_CAL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VEVPDFYY
 
-[Document10]
+[Document14]
 DocumentPath=OSCILLAR_HFB_V1p0_LVL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CHUSDOXA
 
-[Document11]
+[Document15]
 DocumentPath=OSCILLAR_HFB_V1p0_MECH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
